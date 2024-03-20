@@ -11,9 +11,25 @@ process with a single platform that:
 * Lets user retain control, i.e. the account belongs to them, not their club(s).
 * Has "modern" UI patterns
 
+## Beta Test 
+
+A Beta test site is at https://beta.myclub.run
+
+* This is open public Sign Up via email
+* Sign Up via Google requires the email address to be pre-approval as the integration is still waiting approval by Google. This will happen towards the end of beta testing.
+* The Android App is available on request, as it is not yet published to the App Store. This will happen towards the end of beta testing. 
+* The iPhone app will be available shortly of request. As with the Android App it is not yet published to the App Store. 
+* All the necessary security is enabled, but until the beta testing is completed please avoid uploading any sensitive or confidential information such as birth dates or bank details   
+* Password are one way encrypted to "production" strength as per current recommendations, i.e. resistance to latest hardware
+
+## Issue Tracking 
+
+Public tracking is on [GitHub](https://github.com/blindcatsoftware/myclubdotrun.issues/issues). 
+
 ## Release Phases
 
-It is planned to split the releases into 3 phases
+It is planned to split the development into 3 phases. These phases are for guidance only, as new 
+features and enhancement will be continually released.
 
 ### Phase 1 - Sailing
 
