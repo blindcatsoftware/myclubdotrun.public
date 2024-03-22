@@ -203,9 +203,9 @@ based hopefully on feedback. Note that this is currently more a "wish list" than
     * SMS
     * Social
 * User Notification Dashboard
-    * All notifications and emails to a user in once view
+    * All notifications and emails to a user in one view
 * Club Notification Dashboard
-    * All notifications and emails to a club in once view, available to Admins
+    * All notifications and emails to a club in one view, available to Admins
 
 #### Web Apps
 
