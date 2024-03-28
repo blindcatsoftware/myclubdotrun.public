@@ -15,7 +15,7 @@ process with a single platform that:
 
 A Beta test site is at https://beta.myclub.run
 
-* This is open public Sign Up via email
+* This is open to public Sign Up via email
 * Sign Up via Google requires the email address to be pre-approval as the integration is still waiting approval by Google. This will happen towards the end of beta testing.
 * The Android App is available on request, as it is not yet published to the App Store. This will happen towards the end of beta testing. 
 * The iPhone app will be available shortly of request. As with the Android App it is not yet published to the App Store. 
@@ -61,7 +61,7 @@ and Club Management to manage a full Club trial.
     * Create Club (^) - only inbuilt test clubs at present
     * Create Sandbox (^) - prebuilt set of test user, calendars, duties etc for easy testing
 * Account Management
-    * Billing (^) - its all free at present
+    * Billing (^) - it's all free at present!
     * Close Account (^)
     * Bulk invite of users (*)
 * Member Management
@@ -113,7 +113,7 @@ and Club Management to manage a full Club trial.
             * "Guest" results (i.e. enter results for an unregistered user) (^)
         * Overall results calculator (*)
             * apply series rule, i.e. best 3 count (*)
-            * automatic generation of "suggested DNC" based on duty allocation, i.e. no manual extract from Duty Man (*)
+            * automatic generation of "suggested DNC" based on duty allocation, i.e. no manual extract from DutyMan (*)
     * User Dashboard
         * List of dingies raced (type + sail number) (*)
         * Race result and positions (*)
